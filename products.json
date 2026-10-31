@@ -22,29 +22,29 @@
     "url": "https://www.kohls.com/product/prd-8073584/mattel-minecraft-invisible-steve-325-in-action-figure-accessories.jsp"
    },
    {
-    "name": "Minecraft \u2014 Nintendo Switch",
-    "tagline": "Build anything, survive the night, play with friends",
-    "price": "from ~$28",
-    "age": "E10+",
-    "badge": "HOT",
-    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRG_5kykF7KBe6hPJagTHLjRkkvaZIV_w8tPxnmZTAe1GZl7ZAaZXOvIfbP-zPdcZtJ79HVmI0eCYpDXhzyHyNZBuYJOwlWC9eYQlmS_b638tSnDj8eFK1lfA",
-    "url": "https://www.walmart.com/ip/Minecraft-Nintendo-Switch-EU-Version-Region-Free/502944212"
+    "name": "LEGO Minecraft The Illager Desert Patrol (21267)",
+    "tagline": "Cactus Knight vs. 3 Illagers \u2014 flick-fire launcher, 105 bricks of desert action!",
+    "price": "$12.91",
+    "age": "7+",
+    "badge": "BUILD",
+    "img": "https://i5.walmartimages.com/seo/LEGO-Minecraft-Illager-Desert-Patrol-Toy-Figures-Playset-Building-Minecraft-Toy-Kids-Boys-Girls-Ages-7-4-Figures-Pretend-Play-Gift-Idea-Birthdays-212_e81f3694-d0e4-40c3-9c9c-1cfb60a94a3a.4a98f919b248f61c89be04c7511a8a87.jpeg",
+    "url": "https://www.walmart.com/ip/LEGO-Minecraft-The-Illager-Desert-Patrol-21267/6759517251"
+   },
+   {
+    "name": "LEGO Minecraft Chicken Farm",
+    "tagline": "Coop, crops & critters \u2014 run your very own blocky farm",
+    "price": "$19.98",
+    "age": "7+",
+    "badge": "",
+    "img": "https://images.heb.com/is/image/HEBGrocery/015860519-1",
+    "url": "https://www.heb.com/product-detail/lego-minecraft-chicken-farm-building-set/15860519"
    }
   ]
  },
  {
   "section": "Nintendo Switch Fun",
-  "blurb": "Race, explore, and play together on the big screen or on the go.",
+  "blurb": "Jump, float, and explore \u2014 on the big screen or on the go.",
   "items": [
-   {
-    "name": "Mario Kart 8 Deluxe",
-    "tagline": "The go-to party racer \u2014 up to 4 players local (physical game card)",
-    "price": "$59.99",
-    "age": "E",
-    "badge": "HIT",
-    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShO2O-GXoyV_GPrLJPWQeeIS15C630ZWoByifZduzHWBAmbX7jYo-uBm-sg80bRlY5YDLcIMhc2mJhogCj2RvOXXTeB7ah",
-    "url": "https://www.walmart.com/ip/Nintendo-Mario-Kart-8-Deluxe-Nintendo-Switch/137366934"
-   },
    {
     "name": "Minecraft Legends Deluxe Edition",
     "tagline": "Lead mobs, save the Overworld \u2014 Minecraft universe adventure",
@@ -53,21 +53,57 @@
     "badge": "",
     "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvC6ZX79qDVybZhc_fAeBD6_GLR2UsAFhI_TCzrrhHKiHP2Ct8wbPfv5aqodnJI1VMm0T6MivBfE8hrpHDmMryRxPFaaZdlvwkpjgk9esdbQYYnR-LoQW93-0",
     "url": "https://www.walmart.com/ip/Minecraft-Legends-Deluxe-Edition-Nintendo-Switch/1080137992"
+   },
+   {
+    "name": "Super Mario Odyssey",
+    "tagline": "Toss Cappy, hop the globe \u2014 Mario\u2019s biggest 3D adventure yet!",
+    "price": "$53.99",
+    "age": "E10+",
+    "badge": "HIT",
+    "img": "https://target.scene7.com/is/image/Target/GUEST_0d151669-8465-4a77-b1d5-d0850f63c391",
+    "url": "https://www.target.com/p/super-mario-odyssey-nintendo-switch/-/A-52161284"
+   },
+   {
+    "name": "Kirby\u2019s Return to Dream Land Deluxe",
+    "tagline": "Copy powers & team up \u2014 4 players on one Switch!",
+    "price": "$59.99",
+    "age": "E10+",
+    "badge": "HOT",
+    "img": "https://i5.walmartimages.com/seo/Kirby-s-Return-to-Dreamland-Deluxe-Edition-Nintendo-Switch_1c0c8972-0603-4af8-b1a2-38dcd84a28aa.e9ab545e350273a18a486f7ee826b212.jpeg",
+    "url": "https://www.gamestop.com/kirby/products/kirbys-return-to-dream-land-deluxe---nintendo-switch/351971.html"
+   },
+   {
+    "name": "Yoshi\u2019s Crafted World",
+    "tagline": "A cardboard-and-craft world \u2014 flip levels and find hidden treasure, 2-player co-op",
+    "price": "$55.99",
+    "age": "E",
+    "badge": "",
+    "img": "https://cdn.shopify.com/s/files/1/0733/7682/5618/files/58078_9205033a-20e5-48d1-88ec-eab8836d3c66.jpg",
+    "url": "https://www.bestbuy.com/product/yoshis-crafted-world-nintendo-switch/J7GSL4G78K/sku/5897109"
+   },
+   {
+    "name": "Animal Crossing: New Horizons",
+    "tagline": "Your own island getaway \u2014 fish, build, and decorate all year long",
+    "price": "$52.99",
+    "age": "E",
+    "badge": "",
+    "img": "https://cdn.shopify.com/s/files/1/0623/3181/4049/files/1702593618121.jpg",
+    "url": "https://www.walmart.com/ip/Animal-Crossing-New-Horizons-Nintendo-Switch/345974737"
    }
   ]
  },
  {
   "section": "Chapter Books & Graphic Novels",
-  "blurb": "Jack & Annie, Henry & Jessie \u2014 mysteries and magic to read again and again.",
+  "blurb": "Jack & Annie, Henry & Jessie, and a crime-fighting pup \u2014 read again and again.",
   "items": [
    {
-    "name": "Magic Tree House Graphic Novels (8-Book Set)",
-    "tagline": "Dinosaurs, knights, mummies, pirates \u2014 full-color comics",
-    "price": "$70.99",
+    "name": "Magic Tree House Graphic Novels 5\u20138 Boxed Set",
+    "tagline": "Night of the Ninjas, Afternoon on the Amazon, Sunset of the Sabertooth, Midnight on the Moon \u2014 the next four after 1\u20134",
+    "price": "$39.96",
     "age": "6\u201310",
     "badge": "WISH",
-    "img": "https://cdn.shopify.com/s/files/1/0023/0005/1501/files/81zp95oIAGL.jpg",
-    "url": "https://rainierbooks.com/products/magic-tree-house-graphic-novels-series-8-books-collection-set-dinosaurs-before-dark-the-knight-at-dawn-mummies-in-the-morning-pirates-past-noon-of-the-sabertooth-and-midnight-on-the-moon"
+    "img": "https://cdn.shopify.com/s/files/1/0674/5433/7265/files/9798217228386_p0.jpg?v=1793244012",
+    "url": "https://www.barnesandnoble.com/w/magic-tree-house-through-time-and-space-boxed-set-mary-pope-osborne/1149312727"
    },
    {
     "name": "The Boxcar Children Bookshelf (#1\u201312)",
@@ -86,6 +122,15 @@
     "badge": "STARTER",
     "img": "https://cdn.shopify.com/s/files/1/0674/5433/7265/files/9780807508527_p0.jpg?v=1765278812",
     "url": "https://www.barnesandnoble.com/w/the-boxcar-children-gertrude-chandler-warner/1100384065"
+   },
+   {
+    "name": "Dog Man #1 (Dav Pilkey)",
+    "tagline": "Part dog, part cop, ALL hero \u2014 the laugh-out-loud comic kids can\u2019t put down",
+    "price": "$12.99",
+    "age": "7\u201310",
+    "badge": "NEW",
+    "img": "https://treehousetoys.us/cdn/shop/products/web3.46.03PM_c6c4940a-14e0-44cb-a18e-90df05b1a854.jpg?crop=center&height=1200&v=1653515466&width=1200",
+    "url": "https://treehousetoys.us/products/dog-man-1"
    }
   ]
  },
@@ -104,51 +149,78 @@
    },
    {
     "name": "SpongeBob Water Squirters 4-Pack",
-    "tagline": "SpongeBob, Patrick, Squidward & Mr. Krabs \u2014 bath & pool",
+    "tagline": "SpongeBob, Patrick, Squidward & Mr. Krabs \u2014 bath & pool splash attack!",
     "price": "$17.99",
     "age": "3+",
     "badge": "",
-    "img": "https://cdn.shopify.com/s/files/1/0663/6388/3736/files/P6258B.png",
-    "url": "https://fivekltd.com/products/legend-toys-spongebob-water-toys-4-pack"
+    "img": "https://target.scene7.com/is/image/Target/GUEST_afd00e73-436c-45b8-9e81-1d9c3ff9c195",
+    "url": "https://www.target.com/p/legend-toys-spongebob-squarepants-water-squirter-toys-4-pack-bath-pool-fun-set-officially-licensed/-/A-1003408089"
+   },
+   {
+    "name": "SpongeBob & Patrick Bendable Figure Set",
+    "tagline": "Best buddies that bend & pose \u2014 I\u2019m ready, I\u2019m ready!",
+    "price": "$17.99",
+    "age": "3+",
+    "badge": "",
+    "img": "https://casaygifts.com/cdn/shop/products/Spongebob_Patrick.jpg?v=1678571382",
+    "url": "https://casaygifts.com/products/spongebob-squarepants-and-patrick-star-bendable-2pc-figure-set"
+   },
+   {
+    "name": "The Flying Dutchman\u2019s Ship Playset",
+    "tagline": "Ghost ship with lights, motion & 6 exclusive figures \u2014 from the Search for SquarePants movie",
+    "price": "$47.69",
+    "age": "3+",
+    "badge": "HOT",
+    "img": "https://toycartusa.com/cdn/shop/files/711sAIzsqrL.jpg?v=1784723314",
+    "url": "https://toycartusa.com/products/spongebob-squarepants-movie-the-search-for-squarepants-the-flying-dutchmans-ship-playset-with-6-exclusive-figures-lights-motion-hidden"
+   },
+   {
+    "name": "SpongeBob 3D Buddies Mystery Capsule",
+    "tagline": "Crack it open \u2014 who\u2019s inside? Collect the whole Bikini Bottom crew",
+    "price": "$5.99",
+    "age": "4+",
+    "badge": "SURPRISE",
+    "img": "https://target.scene7.com/is/image/Target/GUEST_5c628696-9769-4c30-b2f5-fa2811716bcd",
+    "url": "https://www.target.com/p/u-c-c-distributing-spongebob-squarepants-buddies-3d-3-blind-capsule/-/A-1003792617"
    }
   ]
  },
  {
   "section": "Build It Yourself \u2014 Cars",
-  "blurb": "Snap, build, race \u2014 die-cast Maker Kitz he puts together himself.",
+  "blurb": "Real metal & snap-together kits he builds himself \u2014 Hobby Lobby favorites.",
   "items": [
    {
-    "name": "Hot Wheels Mini Maker Kitz (3-Pack)",
-    "tagline": "Pop-out parts, pull-back motors \u2014 works on Hot Wheels track",
-    "price": "$16.99",
-    "age": "6+",
-    "badge": "BUILD",
-    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxHDI_n1obF2ZSRq6XznJwFm5OSEd38A66bUT1g7rfcqMZTpbpwTyNqaYaqaJivoGQbrYDzdm85Rk0ruEwWLneD4IiEHBPlSiz3usFpO5P3mwF-65s59U8",
-    "url": "https://www.walmart.com/ip/Hot-Wheels-Mini-Maker-Kitz-3-Pack/20642302927"
-   },
-   {
-    "name": "Hot Wheels Motor Maker Kitz",
-    "tagline": "Build a street racer, yank the pull-back, hit the ramp",
-    "price": "$6.99",
-    "age": "6+",
-    "badge": "",
-    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRodMa1Ici1aHuANQwPsBgtup53KmO1avvbXqcX7JSFAJtGFwdZj4R1XDyhYdsJ0TxkX0XhVSetp2gJW8tFkggE52FeK5ukYw",
-    "url": "https://www.walmart.com/ip/Hot-Wheels-Motor-Maker-Kitz-Street-Racer-Kit/20617519493"
-   },
-   {
-    "name": "Hot Wheels Metal Kits \u2014 Gunkster",
-    "tagline": "Assemble a real die-cast model bit by bit",
-    "price": "$17.00",
+    "name": "Maisto 1948 Ford F-1 Pickup Model Kit",
+    "tagline": "Real die-cast metal body \u2014 screw it together, roll it out!",
+    "price": "$10.19",
     "age": "8+",
     "badge": "DIE-CAST",
-    "img": "https://cdn.shopify.com/s/files/1/0945/5534/1135/files/hot-wheels-metal-kits-gunkster.jpg",
-    "url": "https://www.poundfun.com/products/hot-wheels-metal-kits-gunkster"
+    "img": "https://cdn.media.amplience.net/s/hobbylobby/364133-81053375-10142026-IMGSET?w=1000&h=1000",
+    "url": "https://www.hobbylobby.com/crafts-hobbies/model-kits/cars-trucks-motorcycles/1948-ford-f-1-pickup-truck-model-kit/p/81053375"
+   },
+   {
+    "name": "Maisto Ferrari Die-Cast Metal Model Kit",
+    "tagline": "Build a red-hot Italian supercar from real metal parts",
+    "price": "$12.59",
+    "age": "8+",
+    "badge": "",
+    "img": "https://cdn.media.amplience.net/s/hobbylobby/1367614-80811695-10282026-IMGSET?w=1000&h=1000",
+    "url": "https://www.hobbylobby.com/crafts-hobbies/model-kits/cars-trucks-motorcycles/ferrari-die-cast-metal-model-kit/p/80811695"
+   },
+   {
+    "name": "M2 Machines Die-Cast Model Kit (1:64)",
+    "tagline": "Collector-grade metal mini kit \u2014 assemble your own classic ride",
+    "price": "$10.88",
+    "age": "8+",
+    "badge": "BUILD",
+    "img": "https://i5.walmartimages.com/seo/M2-Machines-1-64-Model-Kit-Release-71-1959-Vw-Double-Cab-Truck_cba31ecd-03d9-442e-a2da-4732f6a94ae5.9fbb0c763160db7702f01a1163c36c7b.jpeg",
+    "url": "https://www.walmart.com/ip/M2-Machines-Die-Cast-Model-Kit-Series-1-64-Scale-Play-Vehicle-Type/135785869"
    }
   ]
  },
  {
   "section": "Hoops!",
-  "blurb": "Driveway dunks and outdoor shoot-arounds.",
+  "blurb": "Driveway dunks, bedroom buzzer-beaters, and outdoor shoot-arounds.",
   "items": [
    {
     "name": "Kids Portable Basketball Hoop (5\u20137 ft)",
@@ -160,13 +232,31 @@
     "url": "https://www.target.com/p/kids-basketball-hoop-5-7-ft-adjustable-portable-youth-hoop-with-backboard-wheels-for-indoor-outdoor-play-blue-yellow/-/A-1011359211"
    },
    {
-    "name": "Spalding Fast Break Youth Basketball (Size 5)",
-    "tagline": "27.5\" all-surface rubber ball for driveway & playground",
-    "price": "$12.97",
+    "name": "Spalding TF-150 Youth Basketball (Size 5)",
+    "tagline": "27.5\" grippy rubber ball \u2014 made for driveway & playground",
+    "price": "$12.99",
     "age": "Youth",
     "badge": "",
-    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXlek8MCpxns8OI__gC2XI0cwe63mYnT2esEhhBzOtrjp5ZbA5xqVJ-qncuVu74LBDiL7Gxwk9EzfI2UTpKMGae23jyR5sM4lduiUAph5HRPDkjIp1YqAYGg",
-    "url": "https://www.walmart.com/ip/Spalding-Fast-Break-All-Surface-Green-Silver-Basketball-Size-5-27-5/171235339"
+    "img": "https://wolverinesports.com/cdn/shop/products/BA415P_1024x.jpg?v=1625145246",
+    "url": "https://wolverinesports.com/products/spalding-tf150-rubber-basketball"
+   },
+   {
+    "name": "Spalding Slam Jam Over-the-Door Mini Hoop",
+    "tagline": "Breakaway rim + mini ball \u2014 slam dunks without leaving his room!",
+    "price": "$39.99",
+    "age": "Indoor",
+    "badge": "SLAM",
+    "img": "https://unitedsupplycorp.com/cdn/shop/files/315564206-1.jpg?v=1780430438",
+    "url": "https://unitedsupplycorp.com/products/spalding-slam-jam-over-the-door-unit-18-x-10-5"
+   },
+   {
+    "name": "Wilson NBA DRV Mini Hoop",
+    "tagline": "Clear backboard, real NBA style \u2014 mounts on any door",
+    "price": "$39.95",
+    "age": "Indoor",
+    "badge": "",
+    "img": "https://cdn.shopify.com/s/files/1/0996/7373/5482/files/WZ6017401_2_NBA_MINI_HOOP_CLEAR_RED_clearRedBlue_01.png",
+    "url": "https://www.wilson.com/en-us/products/nba-drv-mini-hoop-wz60174"
    }
   ]
  },
@@ -209,6 +299,33 @@
     "badge": "",
     "img": "https://media.kohlsimg.com/is/image/kohls/7811940?wid=600&hei=600",
     "url": "https://www.target.com/p/lego-creator-3-in-1-turtle-with-a-water-lily-flower-31377/-/A-94756831"
+   },
+   {
+    "name": "Magna-Tiles Downhill Duo (40 pc)",
+    "tagline": "Magnetic ramps + 2 race cars \u2014 build it, zoom it, rebuild it",
+    "price": "$69.99",
+    "age": "3+",
+    "badge": "STEAM",
+    "img": "https://target.scene7.com/is/image/Target/GUEST_5f01c649-1a28-4105-a20c-1f5ec74b0c8a",
+    "url": "https://www.target.com/p/magna-tiles-downhill-duo/-/A-87830755"
+   },
+   {
+    "name": "Engino Play & Invent Galactic Adventure",
+    "tagline": "Snap together rockets, rovers & space bots",
+    "price": "$24.99",
+    "age": "6+",
+    "badge": "",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTIKMA5k2_WZYV0bh-JwbfD8dbQ8NThkPggyMv2k5DBCd-2EHeB0nQhSPrWz5znUwILY3pT-fwnSGXWoSKhzhBBLiqcyw8M",
+    "url": "https://mindware.orientaltrading.com/engino-play-and-invent-galactic-adventure-building-set-a2-14616607.fltr"
+   },
+   {
+    "name": "Thames & Kosmos SolarBots 8-in-1 Solar Robot Kit",
+    "tagline": "Sun-powered robots \u2014 no batteries! Drummer bot, somersault armadillo & more",
+    "price": "$26.99",
+    "age": "6+",
+    "badge": "SOLAR",
+    "img": "https://cdn.shopify.com/s/files/1/0674/5433/7265/files/0814743015265_p0.jpg",
+    "url": "https://shop.barnesandnoble.com/products/0814743015265"
    }
   ]
  }
