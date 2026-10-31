@@ -1,7 +1,7 @@
 [
  {
   "section": "Minecraft Adventures",
-  "blurb": "Steve\u2019s world \u2014 build, explore, collect!",
+  "blurb": "Steve’s world — build, explore, collect!",
   "items": [
    {
     "name": "Minecraft Pixel Spyglass & Steve Figure Set",
@@ -14,7 +14,7 @@
    },
    {
     "name": "Mattel Minecraft Invisible Steve Figure",
-    "tagline": "3.25\" Steve with accessories \u2014 classic pixel look",
+    "tagline": "3.25\" Steve with accessories — classic pixel look",
     "price": "$8.99",
     "age": "6+",
     "badge": "NEW",
@@ -23,7 +23,7 @@
    },
    {
     "name": "LEGO Minecraft The Illager Desert Patrol (21267)",
-    "tagline": "Cactus Knight vs. 3 Illagers \u2014 flick-fire launcher, 105 bricks of desert action!",
+    "tagline": "Cactus Knight vs. 3 Illagers — flick-fire launcher, 105 bricks of desert action!",
     "price": "$12.91",
     "age": "7+",
     "badge": "BUILD",
@@ -32,7 +32,7 @@
    },
    {
     "name": "LEGO Minecraft Chicken Farm",
-    "tagline": "Coop, crops & critters \u2014 run your very own blocky farm",
+    "tagline": "Coop, crops & critters — run your very own blocky farm",
     "price": "$19.98",
     "age": "7+",
     "badge": "",
@@ -43,11 +43,11 @@
  },
  {
   "section": "Nintendo Switch Fun",
-  "blurb": "Jump, float, and explore \u2014 on the big screen or on the go.",
+  "blurb": "Race, explore, and play together — including open-world LEGO driving adventures.",
   "items": [
    {
     "name": "Minecraft Legends Deluxe Edition",
-    "tagline": "Lead mobs, save the Overworld \u2014 Minecraft universe adventure",
+    "tagline": "Lead mobs, save the Overworld — Minecraft universe adventure",
     "price": "$49.94",
     "age": "E10+",
     "badge": "",
@@ -56,7 +56,7 @@
    },
    {
     "name": "Super Mario Odyssey",
-    "tagline": "Toss Cappy, hop the globe \u2014 Mario\u2019s biggest 3D adventure yet!",
+    "tagline": "Toss Cappy, hop the globe — Mario’s biggest 3D adventure yet!",
     "price": "$53.99",
     "age": "E10+",
     "badge": "HIT",
@@ -64,8 +64,8 @@
     "url": "https://www.target.com/p/super-mario-odyssey-nintendo-switch/-/A-52161284"
    },
    {
-    "name": "Kirby\u2019s Return to Dream Land Deluxe",
-    "tagline": "Copy powers & team up \u2014 4 players on one Switch!",
+    "name": "Kirby’s Return to Dream Land Deluxe",
+    "tagline": "Copy powers & team up — 4 players on one Switch!",
     "price": "$59.99",
     "age": "E10+",
     "badge": "HOT",
@@ -73,8 +73,8 @@
     "url": "https://www.gamestop.com/kirby/products/kirbys-return-to-dream-land-deluxe---nintendo-switch/351971.html"
    },
    {
-    "name": "Yoshi\u2019s Crafted World",
-    "tagline": "A cardboard-and-craft world \u2014 flip levels and find hidden treasure, 2-player co-op",
+    "name": "Yoshi’s Crafted World",
+    "tagline": "A cardboard-and-craft world — flip levels and find hidden treasure, 2-player co-op",
     "price": "$55.99",
     "age": "E",
     "badge": "",
@@ -83,33 +83,51 @@
    },
    {
     "name": "Animal Crossing: New Horizons",
-    "tagline": "Your own island getaway \u2014 fish, build, and decorate all year long",
+    "tagline": "Your own island getaway — fish, build, and decorate all year long",
     "price": "$52.99",
     "age": "E",
     "badge": "",
     "img": "https://cdn.shopify.com/s/files/1/0623/3181/4049/files/1702593618121.jpg",
     "url": "https://www.walmart.com/ip/Animal-Crossing-New-Horizons-Nintendo-Switch/345974737"
+   },
+   {
+    "name": "LEGO 2K Drive",
+    "tagline": "Open-world LEGO kart racing — build dream rides & race anywhere in Bricklandia",
+    "price": "$19.99",
+    "age": "E10+",
+    "badge": "RACE",
+    "img": "https://cdn.shopify.com/s/files/1/1104/2322/files/81zZivRchOL.jpg",
+    "url": "https://www.bestbuy.com/site/lego-2k-drive-standard-edition-nintendo-switch/6550727.p"
+   },
+   {
+    "name": "LEGO City Undercover",
+    "tagline": "Huge open-world LEGO city — chase crooks, drive 100+ vehicles, explore with a buddy",
+    "price": "$30.00",
+    "age": "E10+",
+    "badge": "WORLD",
+    "img": "https://cdn.shopify.com/s/files/1/0842/8100/0224/files/37375_68609855-a210-4cad-8d35-681f9fb99a0e.jpg",
+    "url": "https://www.thevideogamecompany.com/products/lego-city-undercover-nintendo-switch"
    }
   ]
  },
  {
   "section": "Chapter Books & Graphic Novels",
-  "blurb": "Jack & Annie, Henry & Jessie, and a crime-fighting pup \u2014 read again and again.",
+  "blurb": "Jack & Annie, Henry & Jessie, and a crime-fighting pup — read again and again.",
   "items": [
    {
-    "name": "Magic Tree House Graphic Novels 5\u20138 Boxed Set",
-    "tagline": "Night of the Ninjas, Afternoon on the Amazon, Sunset of the Sabertooth, Midnight on the Moon \u2014 the next four after 1\u20134",
+    "name": "Magic Tree House Graphic Novels 5–8 Boxed Set",
+    "tagline": "Night of the Ninjas, Afternoon on the Amazon, Sunset of the Sabertooth, Midnight on the Moon — the next four after 1–4",
     "price": "$39.96",
-    "age": "6\u201310",
+    "age": "6–10",
     "badge": "WISH",
     "img": "https://cdn.shopify.com/s/files/1/0674/5433/7265/files/9798217228386_p0.jpg?v=1793244012",
     "url": "https://www.barnesandnoble.com/w/magic-tree-house-through-time-and-space-boxed-set-mary-pope-osborne/1149312727"
    },
    {
-    "name": "The Boxcar Children Bookshelf (#1\u201312)",
+    "name": "The Boxcar Children Bookshelf (#1–12)",
     "tagline": "All the classic Alden kids mysteries in one shelf set",
     "price": "$95.88",
-    "age": "7\u201310",
+    "age": "7–10",
     "badge": "",
     "img": "https://cdn.shopify.com/s/files/1/0674/5433/7265/files/9780807508558_p0.jpg?v=1768967060",
     "url": "https://www.barnesandnoble.com/w/the-boxcar-children-bookshelf-gertrude-chandler-warner/1101037860?ean=9780807508558"
@@ -125,9 +143,9 @@
    },
    {
     "name": "Dog Man #1 (Dav Pilkey)",
-    "tagline": "Part dog, part cop, ALL hero \u2014 the laugh-out-loud comic kids can\u2019t put down",
+    "tagline": "Part dog, part cop, ALL hero — the laugh-out-loud comic kids can’t put down",
     "price": "$12.99",
-    "age": "7\u201310",
+    "age": "7–10",
     "badge": "NEW",
     "img": "https://treehousetoys.us/cdn/shop/products/web3.46.03PM_c6c4940a-14e0-44cb-a18e-90df05b1a854.jpg?crop=center&height=1200&v=1653515466&width=1200",
     "url": "https://treehousetoys.us/products/dog-man-1"
@@ -140,7 +158,7 @@
   "items": [
    {
     "name": "LEGO BrickHeadz SpongeBob SquarePants",
-    "tagline": "Build your own blocky SpongeBob \u2014 72 pieces!",
+    "tagline": "Build your own blocky SpongeBob — 72 pieces!",
     "price": "$12.99",
     "age": "10+ (easy build w/ grown-up help)",
     "badge": "COOL",
@@ -149,7 +167,7 @@
    },
    {
     "name": "SpongeBob Water Squirters 4-Pack",
-    "tagline": "SpongeBob, Patrick, Squidward & Mr. Krabs \u2014 bath & pool splash attack!",
+    "tagline": "SpongeBob, Patrick, Squidward & Mr. Krabs — bath & pool splash attack!",
     "price": "$17.99",
     "age": "3+",
     "badge": "",
@@ -158,7 +176,7 @@
    },
    {
     "name": "SpongeBob & Patrick Bendable Figure Set",
-    "tagline": "Best buddies that bend & pose \u2014 I\u2019m ready, I\u2019m ready!",
+    "tagline": "Best buddies that bend & pose — I’m ready, I’m ready!",
     "price": "$17.99",
     "age": "3+",
     "badge": "",
@@ -166,8 +184,8 @@
     "url": "https://casaygifts.com/products/spongebob-squarepants-and-patrick-star-bendable-2pc-figure-set"
    },
    {
-    "name": "The Flying Dutchman\u2019s Ship Playset",
-    "tagline": "Ghost ship with lights, motion & 6 exclusive figures \u2014 from the Search for SquarePants movie",
+    "name": "The Flying Dutchman’s Ship Playset",
+    "tagline": "Ghost ship with lights, motion & 6 exclusive figures — from the Search for SquarePants movie",
     "price": "$47.69",
     "age": "3+",
     "badge": "HOT",
@@ -176,7 +194,7 @@
    },
    {
     "name": "SpongeBob 3D Buddies Mystery Capsule",
-    "tagline": "Crack it open \u2014 who\u2019s inside? Collect the whole Bikini Bottom crew",
+    "tagline": "Crack it open — who’s inside? Collect the whole Bikini Bottom crew",
     "price": "$5.99",
     "age": "4+",
     "badge": "SURPRISE",
@@ -186,12 +204,12 @@
   ]
  },
  {
-  "section": "Build It Yourself \u2014 Cars",
-  "blurb": "Real metal & snap-together kits he builds himself \u2014 Hobby Lobby favorites.",
+  "section": "Build It Yourself — Cars",
+  "blurb": "Real metal & snap-together kits he builds himself — Hobby Lobby favorites.",
   "items": [
    {
     "name": "Maisto 1948 Ford F-1 Pickup Model Kit",
-    "tagline": "Real die-cast metal body \u2014 screw it together, roll it out!",
+    "tagline": "Real die-cast metal body — screw it together, roll it out!",
     "price": "$10.19",
     "age": "8+",
     "badge": "DIE-CAST",
@@ -209,7 +227,7 @@
    },
    {
     "name": "M2 Machines Die-Cast Model Kit (1:64)",
-    "tagline": "Collector-grade metal mini kit \u2014 assemble your own classic ride",
+    "tagline": "Collector-grade metal mini kit — assemble your own classic ride",
     "price": "$10.88",
     "age": "8+",
     "badge": "BUILD",
@@ -223,8 +241,8 @@
   "blurb": "Driveway dunks, bedroom buzzer-beaters, and outdoor shoot-arounds.",
   "items": [
    {
-    "name": "Kids Portable Basketball Hoop (5\u20137 ft)",
-    "tagline": "Adjustable height, wheels, fillable base \u2014 Target",
+    "name": "Kids Portable Basketball Hoop (5–7 ft)",
+    "tagline": "Adjustable height, wheels, fillable base — Target",
     "price": "$74.99",
     "age": "Kids",
     "badge": "GOAL",
@@ -233,7 +251,7 @@
    },
    {
     "name": "Spalding TF-150 Youth Basketball (Size 5)",
-    "tagline": "27.5\" grippy rubber ball \u2014 made for driveway & playground",
+    "tagline": "27.5\" grippy rubber ball — made for driveway & playground",
     "price": "$12.99",
     "age": "Youth",
     "badge": "",
@@ -242,7 +260,7 @@
    },
    {
     "name": "Spalding Slam Jam Over-the-Door Mini Hoop",
-    "tagline": "Breakaway rim + mini ball \u2014 slam dunks without leaving his room!",
+    "tagline": "Breakaway rim + mini ball — slam dunks without leaving his room!",
     "price": "$39.99",
     "age": "Indoor",
     "badge": "SLAM",
@@ -251,7 +269,7 @@
    },
    {
     "name": "Wilson NBA DRV Mini Hoop",
-    "tagline": "Clear backboard, real NBA style \u2014 mounts on any door",
+    "tagline": "Clear backboard, real NBA style — mounts on any door",
     "price": "$39.95",
     "age": "Indoor",
     "badge": "",
@@ -262,20 +280,20 @@
  },
  {
   "section": "Tinker & Build Labs",
-  "blurb": "Hands-on kits for a 7-year-old engineer \u2014 snap, invent, invent again.",
+  "blurb": "Hands-on kits for a 7-year-old engineer — snap, invent, invent again.",
   "items": [
    {
     "name": "CrunchLabs Creative Kit (gift certificate)",
-    "tagline": "Gift certificate for a CrunchLabs subscription \u2014 Creative Kit is made for ages 6\u201310!",
+    "tagline": "Gift certificate for a CrunchLabs subscription — Creative Kit is made for ages 6–10!",
     "price": "gift plans",
-    "age": "6\u201310",
+    "age": "6–10",
     "badge": "STEM",
     "img": "https://cdn.shopify.com/s/files/1/0634/1535/3575/files/1_18f701b6-f974-4678-99c5-60c9bb7085bb.png",
     "url": "https://www.crunchlabs.com/products/gift-a-build-box-subscription"
    },
    {
-    "name": "Crunch Labs Crunch Kit \u2014 Skyfall Egg Drop",
-    "tagline": "Design, drop, and protect the egg \u2014 real engineering fun",
+    "name": "Crunch Labs Crunch Kit — Skyfall Egg Drop",
+    "tagline": "Design, drop, and protect the egg — real engineering fun",
     "price": "$25.00",
     "age": "8+",
     "badge": "",
@@ -284,7 +302,7 @@
    },
    {
     "name": "Snap Circuits Jr. (100+ projects)",
-    "tagline": "Snap-together electronics \u2014 no soldering, lots of experiments",
+    "tagline": "Snap-together electronics — no soldering, lots of experiments",
     "price": "$31.95",
     "age": "8+",
     "badge": "TINKER",
@@ -293,7 +311,7 @@
    },
    {
     "name": "LEGO Creator 3-in-1 Turtle / Frog / Chameleon",
-    "tagline": "Rebuild three different animals \u2014 ages 7+",
+    "tagline": "Rebuild three different animals — ages 7+",
     "price": "$8.04",
     "age": "7+",
     "badge": "",
@@ -302,7 +320,7 @@
    },
    {
     "name": "Magna-Tiles Downhill Duo (40 pc)",
-    "tagline": "Magnetic ramps + 2 race cars \u2014 build it, zoom it, rebuild it",
+    "tagline": "Magnetic ramps + 2 race cars — build it, zoom it, rebuild it",
     "price": "$69.99",
     "age": "3+",
     "badge": "STEAM",
@@ -320,7 +338,7 @@
    },
    {
     "name": "Thames & Kosmos SolarBots 8-in-1 Solar Robot Kit",
-    "tagline": "Sun-powered robots \u2014 no batteries! Drummer bot, somersault armadillo & more",
+    "tagline": "Sun-powered robots — no batteries! Drummer bot, somersault armadillo & more",
     "price": "$26.99",
     "age": "6+",
     "badge": "SOLAR",

@@ -43,7 +43,7 @@ const DATA=[
  },
  {
   "section": "Nintendo Switch Fun",
-  "blurb": "Jump, float, and explore — on the big screen or on the go.",
+  "blurb": "Race, explore, and play together — including open-world LEGO driving adventures.",
   "items": [
    {
     "name": "Minecraft Legends Deluxe Edition",
@@ -89,6 +89,24 @@ const DATA=[
     "badge": "",
     "img": "https://cdn.shopify.com/s/files/1/0623/3181/4049/files/1702593618121.jpg",
     "url": "https://www.walmart.com/ip/Animal-Crossing-New-Horizons-Nintendo-Switch/345974737"
+   },
+   {
+    "name": "LEGO 2K Drive",
+    "tagline": "Open-world LEGO kart racing — build dream rides & race anywhere in Bricklandia",
+    "price": "$19.99",
+    "age": "E10+",
+    "badge": "RACE",
+    "img": "https://cdn.shopify.com/s/files/1/1104/2322/files/81zZivRchOL.jpg",
+    "url": "https://www.bestbuy.com/site/lego-2k-drive-standard-edition-nintendo-switch/6550727.p"
+   },
+   {
+    "name": "LEGO City Undercover",
+    "tagline": "Huge open-world LEGO city — chase crooks, drive 100+ vehicles, explore with a buddy",
+    "price": "$30.00",
+    "age": "E10+",
+    "badge": "WORLD",
+    "img": "https://cdn.shopify.com/s/files/1/0842/8100/0224/files/37375_68609855-a210-4cad-8d35-681f9fb99a0e.jpg",
+    "url": "https://www.thevideogamecompany.com/products/lego-city-undercover-nintendo-switch"
    }
   ]
  },
